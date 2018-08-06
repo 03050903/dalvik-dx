@@ -1,3 +1,5 @@
+com.android.dex
+com.android.dex.util
 com.android.dx
 com.android.dx.cf.attrib
 com.android.dx.cf.code
